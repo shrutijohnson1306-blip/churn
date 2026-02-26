@@ -20,7 +20,8 @@ AI Inference: The backend processes these features through the churn_model.pkl.
 
 Output: Results are displayed with a risk label (e.g., "High Risk") and a percentage (e.g., 95%).
 
-<img width="934" height="265" alt="supabase" src="https://github.com/user-attachments/assets/4dfcc7b0-d9f4-44a9-9d2a-68c2da6f1349" />
+<img width="937" height="398" alt="image" src="https://github.com/user-attachments/assets/cdb4ff63-384b-4525-b1ff-a793e9283f9c" />
+
 
 3. Batch Data Processing
 To handle enterprise-level data, the platform supports CSV uploads.
